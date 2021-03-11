@@ -19,3 +19,12 @@ body {
     font-size: 40px;
 
 }
+#cabecera 
+{   
+    background-color: blue;
+    width: 70%;
+    padding: 1em;
+    color: rgb(250, 246, 246);
+    padding: 1em;
+
+}
