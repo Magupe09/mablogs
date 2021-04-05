@@ -6,3 +6,4 @@ Con contenido excepcional hasta entonces.
 
 . creado por Mauricio Gualteros
 .incluye ejemplos en otros sistema operativo
+.disponible  para todos !
